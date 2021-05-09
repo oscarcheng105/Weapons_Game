@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3324610012190744839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7609000022956675392}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dbfbdfb94e070c4f8fd9dc1faade269, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  boss: 0
+  sceneName: JaretWorkSpace
+--- !u!1001 &3469052718294707757
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6466065317050892140, guid: 65021e9178b54a9488ea04c859505a62,
+        type: 3}
+      propertyPath: sceneName
+      value: JaretWorkSpace
+      objectReference: {fileID: 0}
+    - target: {fileID: 6466065317050892141, guid: 65021e9178b54a9488ea04c859505a62,
+        type: 3}
+      propertyPath: m_Name
+      value: DoorHub Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6466065317050892142, guid: 65021e9178b54a9488ea04c859505a62,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6466065317050892142, guid: 65021e9178b54a9488ea04c859505a62,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6466065317050892142, guid: 65021e9178b54a9488ea04c859505a62,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6466065317050892142, guid: 65021e9178b54a9488ea04c859505a62,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6466065317050892142, guid: 65021e9178b54a9488ea04c859505a62,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6466065317050892142, guid: 65021e9178b54a9488ea04c859505a62,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 6466065317050892142, guid: 65021e9178b54a9488ea04c859505a62,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 6466065317050892142, guid: 65021e9178b54a9488ea04c859505a62,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6466065317050892142, guid: 65021e9178b54a9488ea04c859505a62,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6466065317050892142, guid: 65021e9178b54a9488ea04c859505a62,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6466065317050892142, guid: 65021e9178b54a9488ea04c859505a62,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 6466065317050892143, guid: 65021e9178b54a9488ea04c859505a62,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6466065317050892143, guid: 65021e9178b54a9488ea04c859505a62,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6466065317050892143, guid: 65021e9178b54a9488ea04c859505a62,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 6466065317050892140, guid: 65021e9178b54a9488ea04c859505a62, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 65021e9178b54a9488ea04c859505a62, type: 3}
+--- !u!1 &7609000022956675392 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6466065317050892141, guid: 65021e9178b54a9488ea04c859505a62,
+    type: 3}
+  m_PrefabInstance: {fileID: 3469052718294707757}
+  m_PrefabAsset: {fileID: 0}
